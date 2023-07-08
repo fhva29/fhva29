@@ -15,8 +15,8 @@ My name is Heitor Vasconcelos! I am a Software Developer and passionate about ev
 - Email: fhv.araujo@gmail.com
 - LinkedIn: [Heitor Vasconcelos](https://www.linkedin.com/in/heitor-vasconcelos-472028121/)
 
-## GitHub Statistics 📊
+## Statistics 📊
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29)](https://github.com/anuraghazra/github-readme-stats)
 
 I hope you find useful information on my profile! Feel free to get in touch with me and explore my projects. Thank you for visiting!
