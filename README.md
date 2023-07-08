@@ -20,3 +20,8 @@ My name is Heitor Vasconcelos! I am a Software Developer and passionate about ev
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I hope you find useful information on my profile! Feel free to get in touch with me and explore my projects. Thank you for visiting!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
