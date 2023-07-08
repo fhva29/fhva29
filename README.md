@@ -10,11 +10,6 @@ My name is Heitor Vasconcelos! I am a Software Developer and passionate about ev
 - Frameworks and Libraries: Django, Flask, FastAPI
 - Tools and Technologies: Docker, Jenkins, Kubernetes
 
-## Contact 📫
-
-- Email: fhv.araujo@gmail.com
-- LinkedIn: [Heitor Vasconcelos](https://www.linkedin.com/in/heitor-vasconcelos-472028121/)
-
 ## Statistics 📊
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
