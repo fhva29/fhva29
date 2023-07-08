@@ -17,6 +17,6 @@ My name is Heitor Vasconcelos! I am a Software Developer and passionate about ev
 
 ## Statistics 📊
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29?layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I hope you find useful information on my profile! Feel free to get in touch with me and explore my projects. Thank you for visiting!
