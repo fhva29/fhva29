@@ -2,11 +2,11 @@
 
 ## About me 🙋‍♂️
 
-My name is Heitor Vasconcelos! I am a Software Developer and passionate about everything related to gaming and programming. I have experience in Python and its frameworks (Django, Flask, FastAPI).
+My name is Heitor Vasconcelos! I am a Software Developer and passionate about everything related to gaming and programming. I have experience in Python and its frameworks (Django, Flask, FastAPI) and Javascript.
 
 ## Skills 💪
 
-- Programming Languages: Python
+- Programming Languages: Python,Javascript
 - Frameworks and Libraries: Django, Flask, FastAPI
 - Tools and Technologies: Docker, Jenkins, Kubernetes
 
@@ -19,7 +19,7 @@ I hope you find useful information on my profile! Feel free to get in touch with
 <div style="display: inline_block"><br>
   <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Heitor-Dango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Heitor-Flask" style="border: 2px solid #ffffff; box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Heitor-Flask" style="border: 2px solid #ffffff; box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Heitor-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
