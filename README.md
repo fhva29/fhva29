@@ -8,7 +8,7 @@ My name is Heitor Vasconcelos! I am a Software Developer and passionate about ev
 
 - Programming Languages: Python,Javascript
 - Frameworks and Libraries: Django, Flask, FastAPI
-- Tools and Technologies: Docker, Jenkins, Kubernetes
+- Tools and Technologies: Docker, RabbitMq, Redis
 
 ## Statistics 📊
 
