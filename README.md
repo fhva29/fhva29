@@ -1,41 +1,38 @@
-# Welcome to Heitor's Code Lair! 🧙‍♂️⚔️
+# Welcome to Heitor's Code Lair: Where Code Meets Precision & Passion
 
-## About me 🐍💻
+## About Me
 
-Hello, world! I'm **Heitor Vasconcelos**, a Python enthusiast and Django wizard with a passion for building scalable, efficient, and robust web applications. My journey in the tech realm began with Python, and since then, I've mastered the Django framework to craft solutions that solve real-world problems with elegance and precision.
+Hello, I'm **Heitor Vasconcelos** – a dedicated Python developer and Django expert focused on building scalable, efficient, and robust web applications. My career began with Python, and over the years I've honed my skills with Django to turn complex ideas into reality. I’m passionate about clean code, modern architecture, and leveraging innovative frameworks to solve real-world challenges.
 
-I believe Python is more than just a programming language—it's a way of thinking. Its clean syntax and powerful libraries have become my go-to tools for backend development, while Django provides the perfect framework for turning ideas into full-fledged applications. Whether it's building APIs, working on database models, or managing complex projects, I'm always seeking to push the boundaries of what Django and Python can achieve together.
-
-When I'm not coding, I enjoy exploring the vast world of open-source, experimenting with new technologies, and, of course, gaming! 🎮
+When I’m not developing cutting-edge solutions, you’ll find me exploring the world of open source, experimenting with emerging technologies, or enjoying a good gaming session.
 
 ---
 
-## My Coding Arsenal 🧙‍♂️🛠️
+## My Technical Arsenal
 
-- **Programming Languages:** Python 🐍, Javascript ⚡
-- **Frameworks and Libraries:** Django 🏰, Flask 🧪, FastAPI ⚙️
-- **Tools and Technologies:** Docker 🐳, RabbitMQ 🐇, Redis 🔥
-- **Hobbies:** Gaming 🎮, watching sci-fi 🚀, and learning new magic spells (aka tech)!
+- **Programming Languages:** Python, JavaScript
+- **Frameworks & Libraries:** Django, Flask, FastAPI
+- **Tools & Technologies:** Docker, RabbitMQ, Redis
+- **Interests:** Gaming, sci-fi, and continuous learning
 
-> "Code is like magic, but better because it works in the real world!" 💻✨
+> “Code isn’t just a tool—it’s a craft where logic meets creativity.”
 
 ---
 
-## Stats, because every hero needs them! ⚔️📊
+## GitHub Stats
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=radical) 
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Do you think **you're strong enough** to handle these stats? I’m always leveling up, so feel free to join the adventure, explore my projects, or challenge me to a coding duel. 🔥
+Every hero has stats—do you think you can keep up?
 
 ---
 
-## The Developer's Gear 🔮
+## The Developer's Gear
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;">
   <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Heitor-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Heitor-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Heitor-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Heitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Heitor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -45,15 +42,19 @@ Do you think **you're strong enough** to handle these stats? I’m always leveli
 
 ---
 
-## Let's Connect! 💬
+## Let's Connect
 
-Have a mission? Let’s join forces! Whether it’s a Python project or you just want to geek out over the latest game, I’m always open to new quests.
+If you have an exciting project or simply want to exchange ideas on the latest tech trends, let’s connect. I’m always open to new challenges and collaborations.
 
 <div>
-  <a href = "mailto:fhv.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:fhva.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-**May the code be with you, always.**
+**May precision and passion guide your code.**
