@@ -1,80 +1,94 @@
-# 👨‍💻 Welcome to Heitor's Code Lair — Merging Precision, Passion & Python
+# 👨‍💻 Heitor --- Backend Developer
 
 ## About Me
 
-Hi, I'm **Heitor Vasconcelos** — a Python developer and Django enthusiast passionate about turning complex problems into elegant, scalable solutions.
+Hi, I'm **Heitor Vasconcelos** --- a backend developer who loves turning
+ideas into clean, scalable systems using Python and modern web
+frameworks.
 
-I value clean code, modern architecture, and leveraging powerful frameworks to build robust web applications. Whether it's designing APIs or orchestrating async systems, I thrive on solving real-world challenges with precision and creativity.
+I'm all about clear architecture, well-designed APIs, and building
+software that feels good to maintain. Outside of coding, you'll probably
+find me exploring new technologies, studying Japanese, diving into
+sci-fi, or recharging with a good game.
 
-When I’m not building code, I’m probably contributing to open source, testing new tech, or immersed in a good game or sci-fi universe.
-
----
+------------------------------------------------------------------------
 
 ## 🧠 Tech Stack Highlights
 
-- **Languages:** Python 🐍, JavaScript  
-- **Frameworks:** Django, FastAPI, Flask  
-- **DevOps & Tools:** Docker, RabbitMQ, Redis, Celery, Git  
-- **Databases:** PostgreSQL, SQLite  
-- **Concepts:** Clean Architecture, Async Tasks, RESTful APIs, System Design  
-- **Interests:** Gaming 🎮, sci-fi 🚀, and continuous learning 📚
+-   **Languages:** Python 🐍, JavaScript\
+-   **Frameworks:** Django, FastAPI, Flask\
+-   **DevOps & Tools:** Docker, Redis, RabbitMQ, Celery, Git\
+-   **Databases:** PostgreSQL, SQLite\
+-   **Concepts:** Clean Architecture, Async Workflows, RESTful APIs,
+    System Design\
+-   **Interests:** Gaming 🎮, sci-fi 🚀, continuous learning 📚
 
-> “Code isn’t just a tool — it’s a craft where logic meets creativity.”
+> "Good code is a conversation between logic and clarity."
 
----
+------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub
+Statistics](https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=radical)\
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&theme=radical)
 
-Every hero has stats — do you think you can keep up?
+------------------------------------------------------------------------
 
----
+## ⚙️ Developer Gear
 
-## ⚙️ Developer's Gear
-
+```{=html}
 <p align="center">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
-  <img alt="RabbitMQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
+```
+`<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">`{=html}
+`<img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">`{=html}
+`<img alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">`{=html}
+`<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">`{=html}
+`<img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">`{=html}
+`<img alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">`{=html}
+`<img alt="RabbitMQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🚀 Featured Projects
+## 💡 What I'm Currently Into
 
-- 🔐 [go-vault](https://github.com/fhva29/go-vault): A secure file vault written in Go, with JWT authentication and folder-based uploads.
-- 📦 [pricelens](https://github.com/fhva29/pricelens): Price monitoring tool with web scraping + FastAPI backend.
-- 📡 [wellnova](https://github.com/fhva29/wellnova): Django platform for oil well data interpretation and simulation.
+-   Deepening knowledge in **system design**\
+-   Exploring **n8n** and automation tools\
+-   Experimenting with Python async patterns\
+-   Trying out modern stacks like **HTMX**, **Django Ninja**, **Pydantic
+    v2**\
+-   Reading psychology & human behavior books\
+-   Playing *Baldur's Gate 3* (ranger gang 🏹)
 
----
+------------------------------------------------------------------------
 
-## 📫 Let's Connect
+## 💬 Let's Connect
 
-If you have an exciting project or simply want to exchange ideas on the latest tech trends, let’s connect! I’m always open to new challenges and collaborations.
+If you want to chat about architecture, backend development, or tech in
+general, feel free to reach out.
 
+```{=html}
 <p>
-  <a href="mailto:fhva.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+```
+`<a href="mailto:fhva.dev@gmail.com" target="_blank">`{=html}
+`<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/" target="_blank">`{=html}
+`<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 🧠 Terminal State of Mind
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Python+Lover;Clean+Code+Fanatic;Always+Learning)](https://git.io/typing-svg)
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Python+Enthusiast;Clean+Code+Mindset;Always+Learning)](https://git.io/typing-svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=fhva29&color=blue)
-
----
-
-**May your code be bug-free and your deployments swift. 🧠🔥**
