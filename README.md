@@ -109,8 +109,17 @@ class HeitorVasconcelos:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<!-- Profile Summary Cards - reliable service -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhva29&theme=github_dark" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fhva29&theme=github_dark" height="170em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fhva29&theme=github_dark" height="170em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhva29&theme=github_dark" height="170em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fhva29&theme=github_dark&utcOffset=-3" height="170em" />
 
 </div>
 
@@ -143,10 +152,11 @@ class HeitorVasconcelos:
 <div align="center">
 
 <a href="https://github.com/fhva29/currency-exchange-api">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://gh-card.dev/repos/fhva29/currency-exchange-api.svg?fullname=1" />
 </a>
+
 <a href="https://github.com/fhva29/social-network-model">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://gh-card.dev/repos/fhva29/social-network-model.svg?fullname=1" />
 </a>
 
 </div>
