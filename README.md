@@ -115,32 +115,7 @@ Refactoring             Developer Experience     Pragmatic Software Design
 
 ---
 
-## Featured projects
-
-> A few repositories that represent things I like building or studying.
-
-<div align="center">
-
-<a href="https://github.com/fhva29/currency-exchange-api">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/fhva29/social-network-model">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## GitHub analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
