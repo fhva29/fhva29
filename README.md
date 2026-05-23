@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 <a href="mailto:fhva.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -21,7 +20,6 @@
 
 <br/><br/>
 
-<!-- Profile counters -->
 <img src="https://komarev.com/ghpvc/?username=fhva29&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/fhva29?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb" />
 
@@ -109,7 +107,7 @@ class HeitorVasconcelos:
 
 <div align="center">
 
-<!-- Profile Summary Cards - reliable service -->
+<!-- Full profile summary: contributions graph + langs + stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhva29&theme=github_dark" width="100%" />
 
 </div>
@@ -117,7 +115,6 @@ class HeitorVasconcelos:
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fhva29&theme=github_dark" height="170em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fhva29&theme=github_dark" height="170em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhva29&theme=github_dark" height="170em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fhva29&theme=github_dark&utcOffset=-3" height="170em" />
 
@@ -142,22 +139,6 @@ class HeitorVasconcelos:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=fhva29&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/fhva29/currency-exchange-api">
-  <img src="https://gh-card.dev/repos/fhva29/currency-exchange-api.svg?fullname=1" />
-</a>
-
-<a href="https://github.com/fhva29/social-network-model">
-  <img src="https://gh-card.dev/repos/fhva29/social-network-model.svg?fullname=1" />
-</a>
 
 </div>
 
@@ -225,27 +206,10 @@ YAML/Config  ░░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## Let's Connect
-
-<p align="center">I am open to backend engineering roles, technical discussions, and collaboration on Python-based systems.</p>
-
-<div align="center">
-
-<a href="mailto:fhva.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-<sub>Crafted with precision | Build. Measure. Improve. | Heitor Vasconcelos 2025</sub>
+<sub>Build. Measure. Improve. | Heitor Vasconcelos 2025</sub>
 
 </div>
