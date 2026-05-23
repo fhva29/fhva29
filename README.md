@@ -104,18 +104,36 @@ Caching              Developer Experience     Testing Strategy
 <div align="center">
 
 <a href="https://github.com/fhva29/currency-exchange-api">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=tokyonight&hide_border=true" 
-    alt="currency-exchange-api"
-  />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=transparent" />
 </a>
 
 <a href="https://github.com/fhva29/social-network-model">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=tokyonight&hide_border=true" 
-    alt="social-network-model"
-  />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=transparent" />
 </a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=transparent"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=transparent"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=fhva29&theme=transparent"
+/>
 
 </div>
 
