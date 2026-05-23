@@ -1,56 +1,69 @@
 <div align="center">
 
-# 👨‍💻 Heitor Vasconcelos
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Heitor%20Vasconcelos&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Distributed%20Systems&descAlignY=60&descSize=18&animation=fadeIn" />
 
-### Backend Developer | Python • Django • FastAPI • Distributed Systems
-
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+API+Engineering;Distributed+Systems+Enthusiast;Building+reliable+and+maintainable+systems" 
-  alt="Typing SVG"
-/>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI+Engineer;Distributed+Systems+Enthusiast;Building+reliable+%26+observable+systems;Clean+Architecture+Advocate" alt="Typing SVG" />
 
 <br/>
 
+<!-- Social Badges -->
 <a href="mailto:fhva.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/fhva29">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fhva29&style=flat-square&color=blueviolet" alt="Profile views"/>
+<!-- Profile counters -->
+<img src="https://komarev.com/ghpvc/?username=fhva29&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/fhva29?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb" />
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-Hi, I'm **Heitor**, a backend developer focused on building reliable, scalable and maintainable systems.
+```python
+class HeitorVasconcelos:
+    """Backend Engineer | Python Specialist | Systems Thinker"""
 
-I specialize in **Python backend development**, APIs, distributed systems, asynchronous processing, background jobs and software architecture.
+    def __init__(self):
+        self.name        = "Heitor Vasconcelos"
+        self.handle      = "@fhva29"
+        self.location    = "Brazil"
+        self.role        = "Backend Developer"
+        self.email       = "fhva.dev@gmail.com"
+        self.languages   = ["Python", "SQL", "Bash"]
+        self.frameworks  = ["Django", "FastAPI", "Celery", "SQLAlchemy"]
+        self.databases   = ["PostgreSQL", "Redis", "MongoDB"]
+        self.infra       = ["Docker", "RabbitMQ", "Nginx", "Linux"]
+        self.learning    = ["Rust", "Kubernetes", "Event Sourcing"]
+        self.interests   = [
+            "Distributed Systems", "Software Architecture",
+            "Observability & Reliability", "Japanese Language",
+            "Sci-Fi & Strategy RPGs", "Behavioral Economics",
+        ]
+        self.mantra      = "Build. Measure. Improve."
 
-My focus is building systems that are robust, observable, easy to evolve and pleasant to maintain over time.
+    def current_focus(self) -> list[str]:
+        return [
+            "Designing modular, maintainable backends",
+            "Mastering async workloads & background jobs",
+            "Building observable systems with metrics & tracing",
+            "Exploring event-driven architectures",
+        ]
 
-Outside of coding, I'm usually studying software architecture, automation, Japanese, psychology, behavioral economics or enjoying sci-fi and strategy/RPG games.
-
----
-
-## What I Work With
-
-- Building scalable **backend services**
-- Designing robust **REST APIs**
-- Backend architecture and modular systems
-- Background processing and async workloads
-- Database modeling and performance optimization
-- Caching, observability and reliability improvements
-- Refactoring legacy systems safely and incrementally
+    def __repr__(self) -> str:
+        return f"<Engineer: {self.name} | Stack: Python + Django + FastAPI>"
+```
 
 ---
 
@@ -58,44 +71,70 @@ Outside of coding, I'm usually studying software architecture, automation, Japan
 
 <div align="center">
 
-### Backend Technologies
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,rabbitmq,docker,linux,git,githubactions" />
+### Frameworks and Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-<br/>
-<br/>
+### Databases and Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Core Concepts
+### Infrastructure and DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![DDD](https://img.shields.io/badge/DDD-Domain--Driven%20Design-0A0A0A?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Software%20Design-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-Design-green?style=for-the-badge)
-![Async Processing](https://img.shields.io/badge/Async%20Processing-Python-orange?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-Logging%20%26%20Metrics-purple?style=for-the-badge)
+### Exploring Next
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
 
 ---
 
-## Backend Interests
+## GitHub Analytics
 
-```txt
-API Design          Clean Architecture       Domain-Driven Design
-System Design       Distributed Systems      Async Processing
-Observability       Performance              Reliability
-Caching              Developer Experience     Testing Strategy
-```
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=fhva29&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fhva29&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b35&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+
+</div>
 
 ---
 
-## Current Focus
+## GitHub Trophies
 
-- Deepening expertise in **system design** and **backend architecture**
-- Improving **performance, observability and maintainability**
-- Exploring **event-driven systems** and async processing
-- Mastering Python async patterns with **asyncio** and **FastAPI**
-- Studying **modular monoliths**, distributed systems and reliability patterns
-- Building better workflows with AI-assisted development tools
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fhva29&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
 
 ---
 
@@ -104,99 +143,89 @@ Caching              Developer Experience     Testing Strategy
 <div align="center">
 
 <a href="https://github.com/fhva29/currency-exchange-api">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=transparent" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=currency-exchange-api&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </a>
-
 <a href="https://github.com/fhva29/social-network-model">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=transparent" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fhva29&repo=social-network-model&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## Engineering Philosophy
 
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=transparent"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=transparent"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=fhva29&theme=transparent"
-/>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=tokyonight&hide_border=true" 
-  alt="GitHub Stats"
-/>
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-  alt="Top Languages"
-/>
-
-<br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=fhva29&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## Engineering Principles
-
-```python
-class BackendEngineer:
-    def principles(self) -> list[str]:
-        return [
-            "Prefer simple solutions before complex ones",
-            "Optimize only when necessary",
-            "Design systems for maintainability",
-            "Refactor incrementally and safely",
-            "Prioritize reliability and clarity",
-        ]
-
-    def mindset(self) -> str:
-        return "Build. Measure. Improve."
 ```
++-------------------------------------------------------------+
+|                   The Engineering Compass                   |
++-------------------+-----------------------------------------+
+|  Architecture     | Modular, layered, easy to evolve        |
+|  Observability    | If it cannot be measured, it is lost    |
+|  Performance      | Profile first, optimize with data       |
+|  Testing          | Tests are docs that actually run        |
+|  Code Quality     | Write for the next developer            |
+|  Iteration        | Build. Measure. Improve. Repeat.        |
++-------------------+-----------------------------------------+
+```
+
+---
+
+## Coding Activity Breakdown
+
+```text
+Python       ████████████████████░░░░░   ~80%
+SQL          ███░░░░░░░░░░░░░░░░░░░░░░   ~12%
+Bash/Shell   █░░░░░░░░░░░░░░░░░░░░░░░░    ~5%
+YAML/Config  ░░░░░░░░░░░░░░░░░░░░░░░░░    ~3%
+```
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+| Topic | Intensity | Status |
+|---|---|---|
+| Rust Systems Programming | High | Active |
+| Kubernetes and Container Orchestration | High | Active |
+| Event Sourcing and CQRS | Medium | Active |
+| Distributed Tracing via OpenTelemetry | Medium | Exploring |
+| Japanese Language | Ongoing | Long-term |
+
+</div>
+
+---
+
+## Dev Principles
+
+<div align="center">
+
+```
+"Premature optimization is the root of all evil." -- Donald Knuth
+
+"Make it work. Make it right. Make it fast."
+
+"The best code is no code at all."
+
+"Complexity is the enemy of reliability."
+```
+
+</div>
 
 ---
 
 ## Let's Connect
 
-I'm open to backend engineering opportunities, technical discussions and collaboration on Python-based systems.
+<p align="center">I am open to backend engineering roles, technical discussions, and collaboration on Python-based systems.</p>
 
 <div align="center">
 
 <a href="mailto:fhva.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/heitor-vasconcelos-472028121/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -205,6 +234,8 @@ I'm open to backend engineering opportunities, technical discussions and collabo
 
 <div align="center">
 
-### Building reliable systems, one improvement at a time.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+<sub>Crafted with precision | Build. Measure. Improve. | Heitor Vasconcelos 2025</sub>
 
 </div>
