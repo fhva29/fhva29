@@ -1,5 +1,77 @@
-# 👨‍💻 Heitor Vasconcelos | Backend Developer ## About Me Hi, I'm **Heitor** — a backend developer passionate about building robust, scalable systems with Python and modern web frameworks. I believe in clean architecture, well-designed APIs, and writing code that's a joy to maintain. When I'm not coding, you'll find me exploring emerging technologies, studying Japanese, diving into sci-fi worlds, or strategizing in my latest game. --- ## 🛠️ Tech Stack ### Core Technologies - **Languages:** Python, JavaScript, TypeScript - **Backend:** Django, FastAPI, Flask, Django REST Framework - **Databases:** PostgreSQL, Redis, SQLite - **Message Queues:** RabbitMQ, Celery - **DevOps:** Docker, Docker Compose, GitHub Actions, CI/CD ### Architecture & Patterns - Clean Architecture & Domain-Driven Design - RESTful APIs & GraphQL - Async/Await Patterns - Microservices & Event-Driven Architecture - Test-Driven Development (TDD) --- ## 📊 GitHub Analytics <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=tokyonight"/> </div> --- ## 💻 Development Environment <div align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) </div> --- ## 🎯 Current Focus - 🏗️ Deepening expertise in **system design** and **software architecture** - 🤖 Exploring **n8n** workflows and automation pipelines - ⚡ Mastering Python async patterns with **asyncio** and **FastAPI** - 🔧 Experimenting with modern stack: **HTMX** + **Django Ninja** + **Pydantic v2** - 📚 Reading: Psychology, behavioral economics, and system design books - 🎮 Gaming: *Baldur's Gate 3* (Ranger main 🏹) --- ## 📈 Contribution Graph [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fhva29&theme=tokyonight)](https://git.io/streak-stats) --- ## 💡 Philosophy
-python
+# 👨‍💻 Heitor Vasconcelos | Backend Developer
+
+## About Me
+
+Hi, I'm **Heitor** — a backend developer passionate about building robust, scalable systems with Python and modern web frameworks.
+
+I believe in clean architecture, well-designed APIs, and writing code that's a joy to maintain. When I'm not coding, you'll find me exploring emerging technologies, studying Japanese, diving into sci-fi worlds, or strategizing in my latest game.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+- **Languages:** Python, JavaScript, TypeScript
+- **Backend:** Django, FastAPI, Flask, Django REST Framework
+- **Databases:** PostgreSQL, Redis, SQLite
+- **Message Queues:** RabbitMQ, Celery
+- **DevOps:** Docker, Docker Compose, GitHub Actions, CI/CD
+
+### Architecture & Patterns
+- Clean Architecture & Domain-Driven Design
+- RESTful APIs & GraphQL
+- Async/Await Patterns
+- Microservices & Event-Driven Architecture
+- Test-Driven Development (TDD)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhva29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhva29&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## 💻 Development Environment
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🏗️ Deepening expertise in **system design** and **software architecture**
+- 🤖 Exploring **n8n** workflows and automation pipelines
+- ⚡ Mastering Python async patterns with **asyncio** and **FastAPI**
+- 🔧 Experimenting with modern stack: **HTMX** + **Django Ninja** + **Pydantic v2**
+- 📚 Reading: Psychology, behavioral economics, and system design books
+- 🎮 Gaming: *Baldur's Gate 3* (Ranger main 🏹)
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fhva29&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 💡 Philosophy
+
+```python
 from typing import List
 
 class Developer:
@@ -12,4 +84,27 @@ class Developer:
     
     def daily_routine(self) -> str:
         return "Code. Review. Refactor. Repeat."
---- ## 📫 Let's Connect <div align="center"> [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fhva.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vasconcelos-472028121/) </div> --- <div align="center"> ### 🌟 "Good code is its own best documentation" ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Enthusiast;Clean+Architecture+Advocate;Always+Learning) ![Profile Views](https://komarev.com/ghpvc/?username=fhva29&color=blueviolet&style=flat-square) </div>
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fhva.dev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-vasconcelos-472028121/)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 "Good code is its own best documentation"
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Enthusiast;Clean+Architecture+Advocate;Always+Learning)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=fhva29&color=blueviolet&style=flat-square)
+  
+</div>
