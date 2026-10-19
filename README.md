@@ -10,8 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-fhva.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fhva.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-fhva29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fhva29)
 
-![Profile views](https://komarev.com/ghpvc/?username=fhva29&color=58A6FF&style=flat-square)
-
 </div>
 
 ---
